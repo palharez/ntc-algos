@@ -19,3 +19,4 @@ def is_anagram(s, t):
 
 def is_anagram_2(s, t):
     return sorted(s) == sorted(t)
+
